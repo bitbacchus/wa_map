@@ -128,7 +128,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.gwdg.de\/duKNVbgyRkuxktJBeKKz-A"
+                 "value":"http:\/\/powerline.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
