@@ -86,7 +86,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/visual6502.org\/JSSim\/index.html"
+                 "value":"https:\/\/www.mathsisfun.com\/games\/knights-move-2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
