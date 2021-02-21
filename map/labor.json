@@ -194,7 +194,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"assets\/audio\/klopi.mp3"
+                 "value":"assets\/audio\/Systemabsturz_Daten_daten_Daten.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
