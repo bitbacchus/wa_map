@@ -31,7 +31,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"assets\/audio\/Six_Umbrellas_-_01_-_Manchester.mp3"
+                 "value":"assets\/audio\/Systemabsturz_Verd\u00e4chtig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {
