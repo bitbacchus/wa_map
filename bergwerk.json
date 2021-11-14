@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"weltall.json#sun"
+                         "value":"weltall.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
