@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"weltall.json#start"
+                         "value":"weltall.json#sun"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -336,7 +336,7 @@
          "firstgid":2383,
          "image":"assets\/tiles\/stars.png",
          "imageheight":320,
-         "imagewidth":320,
+         "imagewidth":321,
          "margin":0,
          "name":"stars",
          "spacing":0,
