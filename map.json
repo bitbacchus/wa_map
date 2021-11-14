@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"haus#start"
+                         "value":"haus.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
