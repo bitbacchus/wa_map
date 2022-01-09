@@ -1,12 +1,5 @@
 { "backgroundcolor":"#003377",
  "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -151,7 +144,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -170,7 +163,7 @@
         {
          "columns":15,
          "firstgid":5,
-         "image":"assets\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"..\/assets\/tiles\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":3936,
          "imagewidth":480,
          "margin":0,
@@ -333,7 +326,7 @@
         {
          "columns":30,
          "firstgid":2149,
-         "image":"assets\/hyptosis_tile-art-batch-4.png",
+         "image":"..\/assets\/tiles\/hyptosis_tile-art-batch-4.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -346,7 +339,7 @@
         {
          "columns":30,
          "firstgid":3049,
-         "image":"assets\/hyptosis_til-art-batch-2.png",
+         "image":"..\/assets\/tiles\/hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -385,7 +378,7 @@
         {
          "columns":30,
          "firstgid":4019,
-         "image":"assets\/hyptosis_tile-art-batch-3.png",
+         "image":"..\/assets\/tiles\/hyptosis_tile-art-batch-3.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -423,6 +416,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }
